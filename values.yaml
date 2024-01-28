@@ -1,0 +1,12 @@
+fernetKey: YUxsWDlkUTQzNzk3UDQ2Y254V1VaTGdGZEFOeG1VR1o=
+webserverSecretKey: YUxsWDlkUTQzNzk3UDQ2Y254V1VaTGdGZEFOeG1VR1o=
+executor: "KubernetesExecutor"
+#dags:
+#  gitSync:
+#    enabled: true
+#    repo: https://github.com/airscholar/Kubernetes-For-DataEngineering.git
+#    branch: main
+#    rev: HEAD
+#    depth: 1
+#    maxFailures: 0
+#    subPath: "dags"
